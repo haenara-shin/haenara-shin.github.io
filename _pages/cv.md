@@ -16,7 +16,7 @@ Education
   * Minor: Chemistry
 * M.S. in Materials Science and Engineering, Korea Advanced Institute of Science and Technology (KAIST), 2011
   * Thesis: Low-temperature deposition of Cu(In,Ga)Se<sub>2</sub> absorber using Na<sub>2</sub>S doping
-* M.S. in Electrical and Computer Engineering, University of California San Diego (UCSD), (in-progress)
+* M.S. in Electrical and Computer Engineering, University of California San Diego (UCSD), 2021
   * Track: Machine Learning and Data Science
 * Ph.D in Materials Science and Engineering, University of California San Diego (UCSD), (in-progress)
 
