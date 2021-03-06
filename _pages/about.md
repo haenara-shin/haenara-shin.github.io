@@ -10,7 +10,7 @@ redirect_from:
 
 I am a graduate student majoring in both MS program for the Machine Learning and Data Science in Electrical and Computer Engineering and the PhD program in Materials Science and Engineering at UCSD. I obtained my fisrt MS for Materials Science and Engineering from KAIST in 2011, and BS for Materials Science and Engineering from KAIST in 2009, minored in Chemistry. From 2011 to 2015, I worked at the PV industry as a researcher who was in charge of the thin-film deposition, the defect/passivation analysis, and the high-efficient p/n-type c-Si solar cells fabrication.
 
-As my second MS, I majored in Machine Learning and Data Science track of Electrical and Computer Engineering department from UCSD, and I am seeking the PhD student position, again!
+As my second MS, I majored in Machine Learning and Data Science track of Electrical and Computer Engineering department from UCSD in 2021, and I am seeking the PhD student position, again!
 
 Research Interests
 ------
