@@ -31,7 +31,7 @@ Seeking Positions
 * I am seeking the PhD student position under the professor who does the research on the Machine Learning and Materials Science application.
   * I admitted the PhD program in 2017 Fall, UCSD, but I stopped it for one year, in order to study the Machine Learning, MS program. 
   * Now, I hope to resume my PhD journey again with a full of passion and interesting in new-field, the Machine Learning, and in my old friend, the Materials Science.
-* I am also looking for the internship related to the Machine Learning (Optical Character Recognition, Image recognition, and Materials Science application). 
+* I am also looking for the internship/full-time job position related to software developer featured the Machine Learning (Optical Character Recognition, Image recognition, and Materials Science application). 
 
 Fun Facts about me
 ------
