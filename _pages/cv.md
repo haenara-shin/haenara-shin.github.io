@@ -19,6 +19,7 @@ Education
 * M.S. in Electrical and Computer Engineering, University of California San Diego (UCSD), 2021
   * Track: Machine Learning and Data Science
 * Ph.D in Materials Science and Engineering, University of California San Diego (UCSD), (2017-2019, Withdrawal)
+  * Changed the degree aim and area to M.S. in Electrical and Computer Engineering (Machine Learning and Data Science track) since 2019 Fall
 
 Research experience
 ======
@@ -114,8 +115,8 @@ TA/Grader | UCSD, U.S.
   * WI20_MAE 30A: Kinematics
   * SP19_MAE 130B: Mechanics 2(Dynamics)
 * TA
-  * WI18_ECE 134: Electronic Materials of Circuits
   * SP21_CENG 101B: Heat Transfer
+  * WI18_ECE 134: Electronic Materials of Circuits
   
 Honors and Awards
 ======
