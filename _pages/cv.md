@@ -18,7 +18,7 @@ Education
   * Thesis: Low-temperature deposition of Cu(In,Ga)Se<sub>2</sub> absorber using Na<sub>2</sub>S doping
 * M.S. in Electrical and Computer Engineering, University of California San Diego (UCSD), 2021
   * Track: Machine Learning and Data Science
-* Ph.D in Materials Science and Engineering, University of California San Diego (UCSD), (in-progress)
+* Ph.D in Materials Science and Engineering, University of California San Diego (UCSD), (2017-2019, Withdrawal)
 
 Research experience
 ======
@@ -115,6 +115,7 @@ TA/Grader | UCSD, U.S.
   * SP19_MAE 130B: Mechanics 2(Dynamics)
 * TA
   * WI18_ECE 134: Electronic Materials of Circuits
+  * SP21_CENG 101B: Heat Transfer
   
 Honors and Awards
 ======
