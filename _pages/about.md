@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student majoring in both MS program for the Machine Learning and Data Science in Electrical and Computer Engineering and the PhD program in Materials Science and Engineering at UCSD. I obtained my fisrt MS for Materials Science and Engineering from KAIST in 2011, and BS for Materials Science and Engineering from KAIST in 2009, minored in Chemistry. From 2011 to 2015, I worked at the PV industry as a researcher who was in charge of the thin-film deposition, the defect/passivation analysis, and the high-efficient p/n-type c-Si solar cells fabrication.
+I am a graduate student majoring in MS program for the Machine Learning and Data Science in Electrical and Computer Engineering. 
 
-As my second MS, I majored in Machine Learning and Data Science track of Electrical and Computer Engineering department from UCSD in 2021, and I am looking for the internship/full-time position as a software developer specilized in Machine Learning.
+I obtained my fisrt MS for Materials Science and Engineering from KAIST in 2011, and BS for Materials Science and Engineering from KAIST in 2009, minored in Chemistry. From 2011 to 2015, I worked at the PV industry as a researcher who was in charge of the thin-film deposition, the defect/passivation analysis, and the high-efficient p/n-type c-Si solar cells fabrication.
+
+As my second MS, in Machine Learning and Data Science track of Electrical and Computer Engineering department from UCSD, I will graduate in June 2021. Now, I am actively looking for the full-time position as a software developer specilized in Machine Learning.
 
 Research Interests
 ------
@@ -28,10 +30,8 @@ Research Interests
 
 Seeking Positions
 ------
-* I am also looking for the internship/full-time job position related to software developer featured the Machine Learning (Optical Character Recognition, Image recognition, and Materials Science application). 
-* I am seeking the PhD student position under the professor who does the research on the Machine Learning and Materials Science application.
-  * I admitted the PhD program in 2017 Fall, UCSD, but I stopped it for one year, in order to study the Machine Learning, MS program. 
-  * Hope to resume my PhD journey again with a full of passion and interesting in new-field, the Machine Learning, and in my old friend, the Materials Science.
+* I am looking for the internship/full-time job position related to software developer featured the Machine Learning/Deep Learning (Optical Character Recognition, Image recognition, and Materials Science application). 
+
 
 Fun Facts about me
 ------
