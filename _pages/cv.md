@@ -76,10 +76,14 @@ Skills
 * [Google TensorFlow Developer Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/20943431), 2020
 * Software
   * Language: Python, Matlab, C++, CUDA
-  * Framework: TensorFlow(2.x), PyTorch, Django
+  * ML framework/packages: TensorFlow(2.x), PyTorch, Scikit-learn
+  * Web-development
+    * Front-end: Django, HTML, CSS, FlexBox, JavaScript(ES6), React, Antd, React-Router, Postman
+    * Back-end: Node.js, MongoDV, MySQL, AWS EC2
+    * Mobile application: React Native, React Navigation, Expo, ngrok
   * Drawing: Rhino-Vray(3D), Libre Office Draw(2D)
   * PV-Simulation: PC1D
-  * Data plotting: ORIGIN
+  * Data plotting/Statistical analysis tool: ORIGIN, Veusz, MiniTab
 * PECVD maintenance for high level from Centrotherm Photovoltaic AG, 2014
 * Plasma Technology from Semiconductor Equipment Technology Education Center in Korea University of Technology and Education, 2012
   
