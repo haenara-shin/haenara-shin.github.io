@@ -5,7 +5,7 @@ collection: portfolio
 ---
 ![nano281_2](https://user-images.githubusercontent.com/58493928/116186958-766e8280-a6d9-11eb-82d4-f58fdd3f2db8.png)
 - **Who**: the solo- and in-class Kaggle competition project
-- **When**: Sept. 2020 - Dec. 2020
+- **When**: Sept. 2020 - Mar. 2021
 - **Where**: [NANO 281 Fall 2020 Lab3](https://www.kaggle.com/c/nano281fa2020/overview)
 - **What**: Prediction the crystal structures (14 bravais lattice) from table-type XRD data
   - **Dataset**: [Crystallography Open Dataset](http://www.crystallography.net/cod/) (open to the public, but simply downloadable from the Kaggle)
