@@ -13,7 +13,7 @@ collection: portfolio
 - **Learn**: Handling structured-type dataset (table data). Building Conv-1D structure from the scratch. Statistically data analysis. Data augmentation method for XRD dataset. Transfer learning of self-building models. 
 
 ![nano281](https://user-images.githubusercontent.com/58493928/116184306-5e483480-a6d4-11eb-9ed9-b540345599d6.png)
-- Through several testing with hyperparameter optimized ML models including Boosting (LightGBM, CatBoost, XGBoost, and others) Bagging(RandomForest, and ExtraTrees) and others, the best accuracy was achieved from 1D-CNN structure. Based on the 1D-CNN models with 3-step fine tuning and CV-stacking(n-folds: 40), I reached at the 2nd-place in the public leader board, and finally ranked 1st-place in the private leader board!
+- Through several testing with hyperparameter optimized ML models including Boosting (LightGBM, CatBoost, XGBoost, and others) Bagging(RandomForest, and ExtraTrees) and others, the best accuracy was achieved from 1D-CNN structure. Based on the 1D-CNN models with 3-step fine tuning and CV-stacking(n-folds: 40), I reached at the 2nd-place in the public LB, and finally ranked 1st-place in the private LB! Yeah!
 - The result was built on the 'no augmented dataset' and 'no ensemble with other ML models.' I believe there are spaces to enhance the accuracy if we can add more dataset (augmentation). LightGBM was very powerful model with this structured dataset, but my self-built pseudo VGG16 model showed the better performance.
 - [The repository](https://github.com/haenara-shin/NANO281_Labs/tree/main/3) is under the private. Please contact me if you want to see in detail.
 
