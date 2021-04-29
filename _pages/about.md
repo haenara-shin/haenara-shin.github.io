@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhaenara-shin.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 I am a graduate student majoring in MS program for the Machine Learning and Data Science in Electrical and Computer Engineering. 
 
 I obtained my first MS for Materials Science and Engineering from KAIST in 2011, and BS for Materials Science and Engineering from KAIST in 2009, minored in Chemistry. From 2011 to 2015, I worked at the PV industry as a researcher who was in charge of the thin-film deposition, the defect/passivation analysis, and the high-efficient p/n-type c-Si solar cells fabrication.
