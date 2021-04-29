@@ -16,7 +16,7 @@ I am a graduate student majoring in MS program for the Machine Learning and Data
 
 I obtained my first MS for Materials Science and Engineering from KAIST in 2011, and BS for Materials Science and Engineering from KAIST in 2009, minored in Chemistry. From 2011 to 2015, I worked at the PV industry as a researcher who was in charge of the thin-film deposition, the defect/passivation analysis, and the high-efficient p/n-type c-Si solar cells fabrication.
 
-As my second MS, in Machine Learning and Data Science track of Electrical and Computer Engineering department from UCSD, I will graduate in June 2021. Now, I am actively looking for the full-time position as a software developer specilized in Machine Learning.
+As my second MS, in Machine Learning and Data Science track of Electrical and Computer Engineering department from UCSD, I will graduate in June 2021. During my new journey to ML/DL, I have done [6 projects](https://haenara-shin.github.io/portfolio/) and several [courses](https://haenara-shin.github.io/cv/) as ceritified [TensorFlow Developer](). Now, I am actively looking for the full-time position as a software developer specilized in Machine Learning.
 
 Research Interests
 ------
