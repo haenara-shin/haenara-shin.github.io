@@ -23,4 +23,5 @@ collection: portfolio
   - (3) Deeper model built with shorter FC layers - from pseudo VGG16 to pseudo VGG19
   - (4) Global Average Pooling layers for bottom layers - replaced FC layers
   - (5) Data transformation (n-root transformation)
+
 ![nano281_3](https://user-images.githubusercontent.com/58493928/116186985-85553500-a6d9-11eb-976b-fa1a05c8688c.png)
