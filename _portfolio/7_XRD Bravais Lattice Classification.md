@@ -17,7 +17,7 @@ collection: portfolio
 - The result was built on the 'no augmented dataset' and 'no ensemble with other ML models.' I believe there are spaces to enhance the accuracy if we can add more dataset (augmentation). LightGBM was very powerful model with this structured dataset, but my self-built pseudo VGG16 model showed the better performance.
 - [The repository](https://github.com/haenara-shin/NANO281_Labs/tree/main/3) is opened to the public, but not including the [entire materials and information](https://github.com/haenara-shin/XRD_ML.git). This is because the project is still going on, and its proprietary is under Prof. Ong, even though I am one of the contributor to this repository and project. Please contact me if you want to see in detail.
 
-- After the Kaggle competition, following techniques were added, merged, and enhanced the original codes. All makes the siginificant performace enhancement to show the 92.15% classification accruacy. 
+- After the Kaggle competition, following techniques were added, merged, and enhanced the original codes. All makes the siginificant performace enhancement to show the 92.5% classification accruacy. 
   - (1) Data augmentation - from class-mate
   - (2) ICSD dataset - dataset quality improved (from class-mate)
   - (3) Deeper model built with shorter FC layers - from pseudo VGG16 to pseudo VGG19
