@@ -25,3 +25,10 @@ collection: portfolio
   - (5) Data transformation (n-root transformation)
 
 ![nano281_3](https://user-images.githubusercontent.com/58493928/116186985-85553500-a6d9-11eb-976b-fa1a05c8688c.png)
+
+![xrd_1](https://user-images.githubusercontent.com/58493928/117560118-d81adf00-b03f-11eb-9bb6-83bd29766062.png)
+![xrd_2](https://user-images.githubusercontent.com/58493928/117560124-e49f3780-b03f-11eb-9263-673a38602853.png)
+![xrd_3](https://user-images.githubusercontent.com/58493928/117560129-ef59cc80-b03f-11eb-98da-b299bab5c135.png)
+![xrd_4](https://user-images.githubusercontent.com/58493928/117560132-f8e33480-b03f-11eb-89ff-cc25947ff483.png)
+![xrd_5](https://user-images.githubusercontent.com/58493928/117560136-013b6f80-b040-11eb-8ce5-332ff62491cb.png)
+![xrd_6](https://user-images.githubusercontent.com/58493928/117560140-08627d80-b040-11eb-85f0-c0dcdd3e2ed7.png)
