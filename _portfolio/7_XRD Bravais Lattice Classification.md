@@ -26,9 +26,20 @@ collection: portfolio
 
 ![nano281_3](https://user-images.githubusercontent.com/58493928/116186985-85553500-a6d9-11eb-976b-fa1a05c8688c.png)
 
+- Featured slides
 ![xrd_1](https://user-images.githubusercontent.com/58493928/117560118-d81adf00-b03f-11eb-9bb6-83bd29766062.png)
 ![xrd_2](https://user-images.githubusercontent.com/58493928/117560124-e49f3780-b03f-11eb-9263-673a38602853.png)
 ![xrd_3](https://user-images.githubusercontent.com/58493928/117560129-ef59cc80-b03f-11eb-98da-b299bab5c135.png)
 ![xrd_4](https://user-images.githubusercontent.com/58493928/117560132-f8e33480-b03f-11eb-89ff-cc25947ff483.png)
 ![xrd_5](https://user-images.githubusercontent.com/58493928/117560136-013b6f80-b040-11eb-8ce5-332ff62491cb.png)
 ![xrd_6](https://user-images.githubusercontent.com/58493928/117560140-08627d80-b040-11eb-85f0-c0dcdd3e2ed7.png)
+![xrd_7](https://user-images.githubusercontent.com/58493928/117560193-7018c880-b040-11eb-9cbe-f9391a15dd54.png)
+![xrd_8](https://user-images.githubusercontent.com/58493928/117560199-7c9d2100-b040-11eb-910e-fef21585f301.png)
+
+- Models' backbone structures with FC-layers
+![p16](https://user-images.githubusercontent.com/58493928/117560204-845cc580-b040-11eb-9268-c55e110f973f.png)
+![p19](https://user-images.githubusercontent.com/58493928/117560209-8cb50080-b040-11eb-8c06-f9d44f64a143.png)
+
+- Models' backbone structures with GAP layer
+![p16_GAP](https://user-images.githubusercontent.com/58493928/117560214-93437800-b040-11eb-91f0-8d98f51badf6.png)
+![p19_GAP](https://user-images.githubusercontent.com/58493928/117560223-9b9bb300-b040-11eb-9275-9e74cebb6444.png)
