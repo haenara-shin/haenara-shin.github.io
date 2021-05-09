@@ -1,6 +1,6 @@
 ---
 title: "Predicting crystal structure from X-ray diffraction"
-excerpt: "NANO 281 Fall 2020 Lab3 InClass Competition: Predicting bravais lattice from XRD"
+excerpt: "FA20_NANO 281: Lab3 In-Class Competition(Predicting bravais lattice from XRD)"
 collection: portfolio
 ---
 
