@@ -79,7 +79,7 @@ Skills
   * ML framework/packages: TensorFlow(2.x), PyTorch, Scikit-learn
   * Web-development
     * Front-end: Django, HTML, CSS, FlexBox, JavaScript(ES6), React, Antd, React-Router, Postman
-    * Back-end: Node.js, MongoDV, MySQL, AWS EC2
+    * Back-end: Node.js, MongoDB, MySQL, AWS EC2
     * Mobile application: React Native, React Navigation, Expo, ngrok
   * Drawing: Rhino-Vray(3D), Libre Office Draw(2D)
   * PV-Simulation: PC1D
