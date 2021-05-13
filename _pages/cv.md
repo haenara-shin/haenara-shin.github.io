@@ -76,7 +76,7 @@ Skills
 * [Google TensorFlow Developer Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/20943431), 2020
 * Software
   * Language: Python, Matlab, C++, CUDA
-  * ML framework/packages: TensorFlow(2.x), PyTorch, Scikit-learn
+  * ML framework/packages: TensorFlow(2.x), PyTorch, Scikit-learn, wandb
   * Web-development
     * Front-end: Django, HTML, CSS, FlexBox, JavaScript(ES6), React, Antd, React-Router, Postman
     * Back-end: Node.js, MongoDB, MySQL, AWS EC2, Kubernetes
