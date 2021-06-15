@@ -12,24 +12,24 @@ redirect_from:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho6225/)](https://www.linkedin.com/in/haenara-shin/)
 [![Resume📄](https://img.shields.io/badge/Resume-darkgreen?style=flat-square&logo=read%20the%20docs&logoColor=white&link=https://drive.google.com/file/d/1sEdd0GXWAH1GGwB3GB5G_g1Mq_NCQO6R/view?usp=sharing)](https://drive.google.com/file/d/1sEdd0GXWAH1GGwB3GB5G_g1Mq_NCQO6R/view?usp=sharing)
 
-I am a graduate student majoring in MS program for the Machine Learning and Data Science in Electrical and Computer Engineering. 
+I finally received the second MS degree for the Machine Learning and Data Science in Electrical and Computer Engineering at University of California San Diego (UCSD), class of 2021. 
 
 I obtained my first MS for Materials Science and Engineering from KAIST in 2011, and BS for Materials Science and Engineering from KAIST in 2009, minored in Chemistry. From 2011 to 2015, I worked at the PV industry as a researcher who was in charge of the thin-film deposition, the defect/passivation analysis, and the high-efficient p/n-type c-Si solar cells fabrication.
 
-As my second MS, in Machine Learning and Data Science track of Electrical and Computer Engineering department from UCSD, I will graduate in June 2021. During my new journey to ML/DL, I have done [6 projects](https://haenara-shin.github.io/portfolio/) and several [courses](https://haenara-shin.github.io/cv/) as [ceritified Google TensorFlow Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/20943431). Now, I am actively looking for the full-time position as a software developer specialized in Machine Learning and Deep Learning.
+As my second MS, in Machine Learning and Data Science track of Electrical and Computer Engineering department from UCSD, I graduated in June 2021. During my new journey to ML/DL, I have done [6 projects](https://haenara-shin.github.io/portfolio/) and several [courses](https://haenara-shin.github.io/cv/) as [ceritified Google TensorFlow Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/20943431). Now, I am actively looking for the full-time position as a software developer specialized in Machine Learning and Deep Learning.
 
 Research Interests
 ------
 * Machine Learning (Deep Learning) + Materials Science Application
   * ML(DL) application/analysis to existing Materials science data/problems
-* Deep Learning to the image recognition(Computer Vision), Natural Language Processing, Graph Neural Network model building
+* Deep Learning to the image recognition(Computer Vision) and/or Natural Language Processing model building, plus MLOps.
 * Solving the real-world problems through ML/DL application
 
 * Before studying the ML, I was just focusing on traditional research of photo-electronic devices. I spent most of time in the cleanroom with vacuum deposition machines when I work at the company. Basically, it was similar when I started my PhD program. However, once I have to make a huge decision for changing my career path, and at the moment that I believe this would be the second chance, I just jumped into the ML world without any hesitation. I believe the ML application to Materials Science can be beyond my experience and expectation. Always, welcome to the new research field :)
 
 Seeking Positions
 ------
-* I am looking for the internship/full-time job position related to software developer featured the Machine Learning/Deep Learning (Optical Character Recognition, Image recognition, and Materials Science application) and MLOps. 
+* I am looking for the internship/full-time job position related to software developer featured the Machine Learning/Deep Learning and MLOps. 
 
 
 Fun Facts about me
