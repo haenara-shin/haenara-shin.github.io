@@ -21,7 +21,7 @@ collection: portfolio
   - (1) Data augmentation - from class-mate
   - (2) ICSD dataset - dataset quality improved (from class-mate)
   - (3) Deeper model built with shorter FC layers - from pseudo VGG16 to pseudo VGG19
-  - (4) Global Average Pooling layers for bottom layers - replaced FC layers
+  - (4) Global Average Pooling layers for top layers - replaced FC layers
   - (5) Data transformation (n-root transformation)
 
 - Featured slides
