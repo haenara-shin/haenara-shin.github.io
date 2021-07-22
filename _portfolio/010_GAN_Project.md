@@ -1,6 +1,6 @@
 ---
-title: "2021 Deep Learning AI competition in South Korea"
-excerpt: "2021 Deep Learning AI competiton: Aging/Rejuvenation of pet's face using StyleGAN2-ADA"
+title: "Aging/Rejuvenation of pet's face using StyleGAN2-ADA"
+excerpt: "2021 Deep Learning AI competiton in South Korea: Aging/Rejuvenation of pet's face using StyleGAN2-ADA"
 collection: portfolio
 ---
 
