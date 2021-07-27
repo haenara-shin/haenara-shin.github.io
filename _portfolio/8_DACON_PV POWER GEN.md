@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 - **Who**: the solo- & side-project
-- **When**: July 2021 - present
+- **When**: July 5th 2021 - July 26th 2021
 - **Where**: [DACON Time Series Prediction Competition](https://dacon.io/competitions/official/235680/overview/description) for AI/ML, section in "Predict the PV Power Generation".
   - **Dataset**: [Dacon dataset](https://dacon.io/competitions/official/235680/data)
 - **What**: Prediction the pv power generated in next 2 days based on the weather information of 7 days.
