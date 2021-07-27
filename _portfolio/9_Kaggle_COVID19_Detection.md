@@ -12,7 +12,7 @@ collection: portfolio
 - **How**: PyTorch. EfficientNet7(classification) + Yolo-v5(Detection).
 - **Learn**: Image detection. 
 
-- **Note_1**: It's still going on. The repos. and report will be posted after the competition (Aug 6 2021). I am now (July 7 2021) ranked at 368/1085. 
+- **Note_1**: It's still going on. The repos. and report will be posted after the competition (Aug 6 2021). I am now (July 7 2021) ranked at 453/1154. 
 
 <!-- ![데이콘](https://user-images.githubusercontent.com/58493928/116183247-67d09d00-a6d2-11eb-93b4-aa0c594e1781.png)
 - Through SOTA model evaluations without using pre-trained weights, I ranked the 21st-rank before 14 days to the deadline of submission, and I ranked at 49th of Private LB among 876 participants. This is because I didn't use the Ensemble/stacking models, and stopped submission by updating codes (due to family issues).
