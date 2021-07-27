@@ -9,7 +9,7 @@ collection: portfolio
 - **Where**: [Kaggle Image Detection Competition](https://www.kaggle.com/c/siim-covid19-detection) SIIM-FISABIO-RSNA COVID-19 Detection
   - **Dataset**: [Kaggle dataset](https://www.kaggle.com/c/siim-covid19-detection/data)
 - **What**:  Identify and localize COVID-19 abnormalities on chest radiographs. In particular, categorize the radiographs as negative for pneumonia or typical, indeterminate, or atypical for COVID-19.
-- **How**: PyTorch. EfficientNet7(classification) + Yolo-v5(Detection).
+- **How**: PyTorch. EfficientNet7(classification) + Yolo-v5(Detection). EfficientNet2(classification) + MMDetection(Detection).
 - **Learn**: Image detection. 
 
 - **Note_1**: It's still going on. The repos. and report will be posted after the competition (Aug 6 2021). I am now (July 7 2021) ranked at 453/1154. 
