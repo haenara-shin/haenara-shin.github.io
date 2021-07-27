@@ -13,6 +13,6 @@ collection: portfolio
 - **Learn**: SOTA models' structures. Ensemble/Stacking method & Customized loss from winner codes. EDA and preliminary ML apporaches from the scratch. 
 
 ![데이콘](https://user-images.githubusercontent.com/58493928/116183247-67d09d00-a6d2-11eb-93b4-aa0c594e1781.png)
-- Through SOTA model evaluations without using pre-trained weights, I ranked the 21st-rank before 14 days to the deadline of submission, and I ranked at 49th of Private LB among 876 participants. This is because I didn't use the Ensemble/stacking models, and stopped submission by updating codes (due to family issues).
+- Through SOTA model evaluations without using pre-trained weights, I ranked the 21st-rank before 14 days to the deadline of submission, and I ranked at 49th of Private LB among 1185 participants. This is because I didn't use the Ensemble/stacking models, and stopped submission by updating codes (due to family issues).
 - The winner codes used the ensemble/stacking methods.
 - [The repository](https://github.com/haenara-shin/DACON_EMNIST.git) is opened to the public. My own codes were written in UCSD-Datahub server, but forgot to download it from there, so it was deleted.
