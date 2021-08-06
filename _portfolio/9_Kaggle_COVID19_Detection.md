@@ -4,6 +4,8 @@ excerpt: "Kaggle Image Detection competition: SIIM-FISABIO-RSNA COVID-19 Detecti
 collection: portfolio
 ---
 
+![SIIM-COVID19 Github Banner](https://user-images.githubusercontent.com/58493928/128546381-97883f11-a61a-411e-8497-3471d0aed890.png)
+
 - **Who**: the solo- & side-project
 - **When**: June 2021 - present
 - **Where**: [Kaggle Image Detection Competition](https://www.kaggle.com/c/siim-covid19-detection) SIIM-FISABIO-RSNA COVID-19 Detection
