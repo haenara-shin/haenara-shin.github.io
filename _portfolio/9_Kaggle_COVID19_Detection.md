@@ -11,10 +11,12 @@ collection: portfolio
 - **Where**: [Kaggle Image Detection Competition](https://www.kaggle.com/c/siim-covid19-detection) SIIM-FISABIO-RSNA COVID-19 Detection
   - **Dataset**: [Kaggle dataset](https://www.kaggle.com/c/siim-covid19-detection/data)
 - **What**:  Identify and localize COVID-19 abnormalities on chest radiographs. In particular, categorize the radiographs as negative for pneumonia or typical, indeterminate, or atypical for COVID-19.
-- **How**: PyTorch. EfficientNet7(classification) + Yolo-v5(Detection). EfficientNet2(classification) + CascadeRCNN(Detection).
+- **How**: PyTorch. EfficientNet7(classification) + Yolo-v5(Detection). EfficientNet2(classification) + CascadeRCNN(Detection). EfficientNetv2 + DetectoRs(FasterRCNN)
 - **Learn**: Image detection. 
 
-- **Note_1**: It's still going on. The repos. and report will be posted after the competition (Aug 9, 2021). I am now (Aug. 1, 2021) ranked at 119/1187 (Top 11%). 
+- **Result_1**: It's done (Aug. 9, 2021). The repos. and report will be summarized and reported soon. I finally ranked at 97/1324 (Top 8% - Bronze medal).
+- **Result_2**: ![스크린샷 2021-08-09 오후 7 41 09](https://user-images.githubusercontent.com/58493928/128800201-bd850f59-a2a8-4229-9bbe-4f1d0fa1f311.png)
+- **Result_3**: ![스크린샷 2021-08-09 오후 7 41 36](https://user-images.githubusercontent.com/58493928/128800242-42e30f9b-159f-4a3c-8930-20f20839cac6.png)
 
 <!-- ![데이콘](https://user-images.githubusercontent.com/58493928/116183247-67d09d00-a6d2-11eb-93b4-aa0c594e1781.png)
 - Through SOTA model evaluations without using pre-trained weights, I ranked the 21st-rank before 14 days to the deadline of submission, and I ranked at 49th of Private LB among 876 participants. This is because I didn't use the Ensemble/stacking models, and stopped submission by updating codes (due to family issues).
