@@ -15,7 +15,7 @@ collection: portfolio
 - **Learn**: Image detection. 
 
 - **Result_1**: It's done (Aug. 9, 2021). The repos. and report will be summarized and reported soon. I finally ranked at 97/1324 (Top 8% - Bronze medal).
-- **Result_2**: ![스크린샷 2021-08-09 오후 7 41 09](https://user-images.githubusercontent.com/58493928/128800201-bd850f59-a2a8-4229-9bbe-4f1d0fa1f311.png)
+- **Result_2**: ![스크린샷 2021-08-09 오후 7 46 18](https://user-images.githubusercontent.com/58493928/128800584-f3748867-474f-4fcc-8a42-3e1f1b7c199d.png)
 - **Result_3**: ![스크린샷 2021-08-09 오후 7 41 36](https://user-images.githubusercontent.com/58493928/128800242-42e30f9b-159f-4a3c-8930-20f20839cac6.png)
 
 <!-- ![데이콘](https://user-images.githubusercontent.com/58493928/116183247-67d09d00-a6d2-11eb-93b4-aa0c594e1781.png)
