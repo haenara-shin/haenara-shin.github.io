@@ -7,7 +7,7 @@ collection: portfolio
 ![SIIM-COVID19 Github Banner](https://user-images.githubusercontent.com/58493928/128546381-97883f11-a61a-411e-8497-3471d0aed890.png)
 
 - **Who**: the solo- & side-project
-- **When**: June 2021 - present
+- **When**: June 2021 - Aug 2021 (completed)
 - **Where**: [Kaggle Image Detection Competition](https://www.kaggle.com/c/siim-covid19-detection) SIIM-FISABIO-RSNA COVID-19 Detection
   - **Dataset**: [Kaggle dataset](https://www.kaggle.com/c/siim-covid19-detection/data)
 - **What**:  Identify and localize COVID-19 abnormalities on chest radiographs. In particular, categorize the radiographs as negative for pneumonia or typical, indeterminate, or atypical for COVID-19.
