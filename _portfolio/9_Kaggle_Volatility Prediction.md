@@ -12,6 +12,6 @@ collection: portfolio
   - **Dataset**: [Kaggle dataset](https://www.kaggle.com/c/optiver-realized-volatility-prediction/data)
 - **What**: Will be posted after the competition
 - **How**: Will be posted after the competition
-- **Learn**: Time-Series Finanace dataset handling. LGBM + MLP + TabNet ensemble   
+- **Learn**: Time-Series Finanace dataset handling. LGBM + Embedding (+MLP) + TabNet ensemble   
 
-- **Result_1**: Progress_Top 2%_55/3377 (Sept. 9, 2021). The repos. and report will be summarized and reported after the competition.
+- **Result_1**: In-Progress_Top 1%_24/3785 (Sept. 24, 2021). The repos. and report will be summarized and reported after the competition.
