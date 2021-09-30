@@ -5,8 +5,17 @@ collection: portfolio
 ---
 
 - **Who**: the team & side-project
-- **When**: May 2021 - Aug 2021
-- Will be updated. 
+  * [@jiyoon baek](https://github.com/jiyoonbaekbaek) - She was our project leader. Our key idea came from her, and she tested other possible models. Also, she devoted to PPT and presented our result. Her presentation was very smooth and impressive to judges. 
+  * [@seungwon song](https://github.com/sw-song) - He implemented our final & successful GAN model and inspired many points in this project. His keen sight and sense were one of key points for our succeesful result.
+  * [@haenara shin](https://github.com/haenara-shin) - I verified the human face aging models that wered turned out those were not suitable for us, and wrote the inference python file and docker file to submit the committee. 
+- **When**: May 2021 - Sept 2021
+- **Brife summary**
+  * Group (3 people) project of '2021 Deep Learning AI Competition in South Korea' 
+  * Base structure: StyleGAN2-Adaptive Discriminator Augmentation (ADA) (written in PyTorch)
+  * Using GAN(StyleGAN2-ADA), showed the rejuvenation of the adult dog based on the continuous time-flow changing.
+- Result: 🎉Won a contest (1st place: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상' in Korean)🎉
+
+- Will be updated soon in detail or please visit [our repos.](https://github.com/haenara-shin/GAN_Project) and star🌟!
 <!-- - **Where**: [DACON Time Series Prediction Competition](https://dacon.io/competitions/official/235680/overview/description) for AI/ML, section in "Predict the PV Power Generation".
   - **Dataset**: [Dacon dataset](https://dacon.io/competitions/official/235680/data)
 - **What**: Prediction the pv power generated in next 2 days based on the weather information of 7 days.
@@ -21,3 +30,4 @@ collection: portfolio
 - The winner codes used the ensemble/stacking methods.
 - [The repository](https://github.com/haenara-shin/DACON_EMNIST.git) is opened to the public. My own codes were written in UCSD-Datahub server, but forgot to download it from there, so it was deleted.
  -->
+
