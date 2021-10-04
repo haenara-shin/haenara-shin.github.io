@@ -4,7 +4,7 @@ excerpt: "Kaggle Time-Series Prediction competition: Optiver Realized Volatility
 collection: portfolio
 ---
 
-![스크린샷 2021-08-30 오전 8 39 50](https://user-images.githubusercontent.com/58493928/131365851-7d1b509e-3715-4dc5-b90a-7859995c3960.png)
+![스크린샷 2021-09-30 오후 10 41 23](https://user-images.githubusercontent.com/58493928/135851007-b46993ac-3603-4991-b9ff-ba35d169be72.png)
 
 - **Who**: the solo- & side-project
 - **When**: Aug 2021 - Sept 2021 and the private LB will be finalized at Jan 10 2022.
