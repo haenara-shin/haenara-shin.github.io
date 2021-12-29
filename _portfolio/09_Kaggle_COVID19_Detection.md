@@ -14,7 +14,7 @@ collection: portfolio
 - **How**: PyTorch. EfficientNet7(classification) + Yolo-v5(Detection). EfficientNet2(classification) + CascadeRCNN(Detection). EfficientNetv2 + DCN(FasterRCNN)
 - **Learn**: Image detection. 
 
-- **Result_1**: It's done (Aug. 9, 2021). The repos. and report will be summarized and reported soon. I finally ranked at 97/1324 (Top 8% - Bronze medal).
+- **Result_1**: It's done (Aug. 9, 2021). I finally ranked at 97/1324 (Top 8% - Bronze medal). I know it's all my fault, however, the bronze medal was retracted and my account on this competition was deleted because I made two accounts on this competition(the 2nd account's name was 'Running_on_Datasets' which was ranked at 100/1324), in order to overcome the computing power and submission limits. I admit I violated the competition rule which I was not aware of that.
 - **Result_2**: ![스크린샷 2021-08-09 오후 7 46 18](https://user-images.githubusercontent.com/58493928/128800584-f3748867-474f-4fcc-8a42-3e1f1b7c199d.png)
 - **Result_3**: ![스크린샷 2021-08-09 오후 7 41 36](https://user-images.githubusercontent.com/58493928/128800242-42e30f9b-159f-4a3c-8930-20f20839cac6.png)
 
