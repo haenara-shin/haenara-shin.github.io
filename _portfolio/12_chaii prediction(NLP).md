@@ -19,4 +19,4 @@ collection: portfolio
 <img width="961" alt="Screen Shot 2021-12-29 at 11 44 06 AM" src="https://user-images.githubusercontent.com/58493928/147622717-65975a94-bd77-4266-a572-7afed37ffcc0.png">
 <img width="233" alt="Screen Shot 2021-12-29 at 11 45 07 AM" src="https://user-images.githubusercontent.com/58493928/147622780-762ac11a-94e1-45f6-923c-802e59b48955.png">
 
-![private_LB](https://user-images.githubusercontent.com/58493928/142142097-4ea9988c-a9dd-4c8a-86aa-a5b434d3bf04.png)
+<img width="957" alt="Screen Shot 2021-12-29 at 11 48 18 AM" src="https://user-images.githubusercontent.com/58493928/147622847-252c258a-f375-493c-a643-5cd1c8cc73cc.png">
