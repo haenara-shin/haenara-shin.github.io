@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 Detection"
+title: "Kaggle_COVID-19 Detection"
 excerpt: "Kaggle Image Detection competition: SIIM-FISABIO-RSNA COVID-19 Detection"
 collection: portfolio
 ---
