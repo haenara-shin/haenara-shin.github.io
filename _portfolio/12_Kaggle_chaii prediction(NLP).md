@@ -1,5 +1,5 @@
 ---
-title: "chaii prediction"
+title: "Kaggle_chaii prediction"
 excerpt: "Kaggle Natural Language Processing competition: chaii - Hindi and Tamil Question and Answering"
 collection: portfolio
 ---
