@@ -14,6 +14,7 @@ collection: portfolio
   * Base structure: StyleGAN2-Adaptive Discriminator Augmentation (ADA) (written in PyTorch)
   * Using GAN(StyleGAN2-ADA), showed the rejuvenation of the adult dog based on the continuous time-flow changing.
 - Result: 🎉Won a contest (1st place: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상' in Korean)🎉
+  * ![KIPO_Award](https://user-images.githubusercontent.com/58493928/149621267-7da93cca-9dd7-459a-ae53-384e27cfa2b0.jpg)
+- Please visit [our repos.](https://github.com/haenara-shin/GAN_Project) and give a star🌟!
 
-- Will be updated soon in detail or please visit [our repos.](https://github.com/haenara-shin/GAN_Project) and give a star🌟!
 
