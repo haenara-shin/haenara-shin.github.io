@@ -1,5 +1,5 @@
 ---
-title: "Volatility Prediction"
+title: "Kaggle_Volatility Prediction"
 excerpt: "Kaggle Time-Series Prediction competition: Optiver Realized Volatility Prediction"
 collection: portfolio
 ---
