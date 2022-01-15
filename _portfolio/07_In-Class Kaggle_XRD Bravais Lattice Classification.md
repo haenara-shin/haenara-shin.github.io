@@ -1,5 +1,5 @@
 ---
-title: "Predicting crystal structure from X-ray diffraction"
+title: "In-Class Kaggle_Predicting crystal structure from X-ray diffraction"
 excerpt: "FA20_NANO 281: Lab3 In-Class Competition(Predicting bravais lattice from XRD)"
 collection: portfolio
 ---
