@@ -4,7 +4,7 @@ excerpt: "Kaggle Natural Language Processing competition: chaii - Hindi and Tami
 collection: portfolio
 ---
 
-<img width="954" alt="스크린샷 2021-11-16 오후 12 05 27" src="https://user-images.githubusercontent.com/58493928/141993611-7e92d228-19e2-4bee-acae-9284c7758a05.png">
+![스크린샷 2022-01-15 오후 9 21 45](https://user-images.githubusercontent.com/58493928/149621595-672e6a70-b987-448e-9ef2-7203bad61d45.png)
 
 - **Who**: the solo- & side-project
 - **When**: Sept 2021 - Jan 2021 and the private LB is tentatively finalized.
