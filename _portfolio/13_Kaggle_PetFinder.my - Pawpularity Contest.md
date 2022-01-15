@@ -1,5 +1,5 @@
 ---
-title: "Kaggle_PetFinder.my - Pawpularity Contest"
+title: "Kaggle_PetFinder.my"
 excerpt: "Kaggle Image Classification competition: PetFinder.my - Pawpularity Contest"
 collection: portfolio
 ---
