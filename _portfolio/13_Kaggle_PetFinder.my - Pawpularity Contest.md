@@ -1,6 +1,6 @@
 ---
-title: "chaii prediction"
-excerpt: "Kaggle Natural Language Processing competition: chaii - Hindi and Tamil Question and Answering"
+title: "Kaggle_PetFinder.my - Pawpularity Contest"
+excerpt: "Kaggle Image Classification competition: PetFinder.my - Pawpularity Contest"
 collection: portfolio
 ---
 
