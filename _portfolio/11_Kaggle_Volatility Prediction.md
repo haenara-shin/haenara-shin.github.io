@@ -14,4 +14,4 @@ collection: portfolio
 - **How**: Will be posted after the competition
 - **Learn**: Time-Series Finanace dataset handling. LGBM + Embedding (+MLP) + TabNet ensemble   
 
-- **Result_1**: Top 1% - 28/3965 (Sept. 28, 2021 - This is the final submission deadline). The repos. and report will be summarized and reported after the competition.
+- **Result_1**: Top 1% - 28/3965 (Sept. 28, 2021 - This is the final submission deadline), but the final private LB result was awful and it was very disappointed. 
