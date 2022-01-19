@@ -11,6 +11,7 @@ redirect_from:
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho6225/)](https://www.linkedin.com/in/haenara-shin/)
 [![Resume📄](https://img.shields.io/badge/Resume-darkgreen?style=flat-square&logo=read%20the%20docs&logoColor=white&link=https://drive.google.com/file/d/1GPlZNQZF8bzAZWxV9FGWBXJaN6PVzllF/view?usp=sharing)](https://drive.google.com/file/d/1GPlZNQZF8bzAZWxV9FGWBXJaN6PVzllF/view?usp=sharing)
+![haenara](https://road-to-kaggle-grandmaster.vercel.app/api/simple/haenara)
 
 I finally received the second MS degree for the Machine Learning and Data Science in Electrical and Computer Engineering at University of California San Diego (UCSD), class of 2021. 
 
