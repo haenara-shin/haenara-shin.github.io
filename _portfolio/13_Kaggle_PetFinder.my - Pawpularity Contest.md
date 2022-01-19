@@ -14,7 +14,7 @@ collection: portfolio
 - **How**: Will be posted soon.
 - **Learn**: FastAi. PyTorch. Will be posted in detail soon.    
 
-- **Result**: Top 5% - 170/3545 (Silver medal will be awarded). The repos. and report will be summarized soon. Thanks for this achievement, I become a Kaggle Expert in the Code Competition section.
+- **Result**: Top 5% - 165/3537 (Silver medal is awarded). The repos. and report will be summarized soon. Thanks for this achievement, I become a Kaggle Expert in the Code Competition section.
 
-<img width="957" alt="스크린샷 2022-01-15 오후 8 33 09" src="https://user-images.githubusercontent.com/58493928/149621504-4dbf987d-ff57-4896-9859-6d892477b3c1.png">
-<img width="234" alt="스크린샷 2022-01-15 오후 8 33 40" src="https://user-images.githubusercontent.com/58493928/149621524-6fb0cf20-cdef-4fdd-8ee9-ab30d0a419a4.png">
+<img width="956" alt="스크린샷 2022-01-19 오후 5 13 51" src="https://user-images.githubusercontent.com/58493928/150091911-e1ab6e3f-36a2-4253-9982-0bc8f95660e3.png">
+<img width="234" alt="스크린샷 2022-01-19 오후 5 12 55" src="https://user-images.githubusercontent.com/58493928/150090595-f03f5ab6-a8c9-44b8-9603-94e516cf6079.png">
