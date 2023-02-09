@@ -16,9 +16,10 @@ Education
   * Minor: Chemistry
 * M.S. in Materials Science and Engineering, Korea Advanced Institute of Science and Technology (KAIST), 2011
   * Thesis: Low-temperature deposition of Cu(In,Ga)Se<sub>2</sub> absorber using Na<sub>2</sub>S doping
-* M.S. in Electrical and Computer Engineering, University of California San Diego (UCSD), (in-progress)
+* M.S. in Electrical and Computer Engineering, University of California San Diego (UCSD), 2021
   * Track: Machine Learning and Data Science
-* Ph.D in Materials Science and Engineering, University of California San Diego (UCSD), (in-progress)
+* Ph.D in Materials Science and Engineering, University of California San Diego (UCSD), (2017-2019, Withdrawal)
+  * Changed the degree aim and area to M.S. in Electrical and Computer Engineering (Machine Learning and Data Science track) since 2019 Fall
 
 Research experience
 ======
@@ -75,10 +76,14 @@ Skills
 * [Google TensorFlow Developer Certificate](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/20943431), 2020
 * Software
   * Language: Python, Matlab, C++, CUDA
-  * Framework: TensorFlow(2.x), PyTorch, Django
+  * ML framework/packages: TensorFlow(2.x), PyTorch, Scikit-learn, wandb
+  * Web-development
+    * Front-end: Django, HTML, CSS, FlexBox, JavaScript(ES6), React, Antd, React-Router, Postman
+    * Back-end: Node.js, MongoDB, MySQL, AWS EC2, Kubernetes
+    * Mobile application: React Native, React Navigation, Expo, ngrok
   * Drawing: Rhino-Vray(3D), Libre Office Draw(2D)
   * PV-Simulation: PC1D
-  * Data plotting: ORIGIN
+  * Data plotting/Statistical analysis tool: ORIGIN, Veusz, MiniTab
 * PECVD maintenance for high level from Centrotherm Photovoltaic AG, 2014
 * Plasma Technology from Semiconductor Equipment Technology Education Center in Korea University of Technology and Education, 2012
   
@@ -114,6 +119,7 @@ TA/Grader | UCSD, U.S.
   * WI20_MAE 30A: Kinematics
   * SP19_MAE 130B: Mechanics 2(Dynamics)
 * TA
+  * SP21_CENG 101B: Heat Transfer
   * WI18_ECE 134: Electronic Materials of Circuits
   
 Honors and Awards

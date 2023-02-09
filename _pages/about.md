@@ -7,31 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhaenara-shin.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/haenara-shin)](https://www.github.com/haenara-shin)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinho6225/)](https://www.linkedin.com/in/haenara-shin/)
+[![Resume📄](https://img.shields.io/badge/Resume-darkgreen?style=flat-square&logo=read%20the%20docs&logoColor=white&link=https://drive.google.com/file/d/1GPlZNQZF8bzAZWxV9FGWBXJaN6PVzllF/view?usp=sharing)](https://drive.google.com/file/d/1GPlZNQZF8bzAZWxV9FGWBXJaN6PVzllF/view?usp=sharing)
+![haenara](https://road-to-kaggle-grandmaster.vercel.app/api/simple/haenara)
 
-I am a graduate student majoring in both MS program for the Machine Learning and Data Science in Electrical and Computer Engineering and the PhD program in Materials Science and Engineering at UCSD. I obtained my fisrt MS for Materials Science and Engineering from KAIST in 2011, and BS for Materials Science and Engineering from KAIST in 2009, minored in Chemistry. From 2011 to 2015, I worked at the PV industry as a researcher who was in charge of the thin-film deposition, the defect/passivation analysis, and the high-efficient p/n-type c-Si solar cells fabrication.
+I finally received the second MS degree for the Machine Learning and Data Science in Electrical and Computer Engineering at University of California San Diego (UCSD), class of 2021. 
 
-Now, I will complete the second MS degree in WI21, and I am seeking the PhD student position, again!
+I obtained my first MS for Materials Science and Engineering from KAIST in 2011, and BS for Materials Science and Engineering from KAIST in 2009, minored in Chemistry. From 2011 to 2015, I worked at the PV industry as a researcher who was in charge of the thin-film deposition, the defect/passivation analysis, and the high-efficient p/n-type c-Si solar cells fabrication.
+
+As my second MS, in Machine Learning and Data Science track of Electrical and Computer Engineering department from UCSD, I graduated in June 2021. During my new journey to ML/DL, I have done several [projects](https://haenara-shin.github.io/portfolio/) and [courses](https://haenara-shin.github.io/cv/) as [ceritified Google TensorFlow Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/20943431). Now, I am actively looking for the full-time position as a software developer specialized in Machine Learning and Deep Learning while I enjoyed [Image detection Kaggle competition](https://www.kaggle.com/c/siim-covid19-detection/leaderboard) as a solo project (ranked 97th of 1324 - Top 8%, achieved Bronze medal, but it was retracted due to my fault 😭) and I participated in [GAN project in 2021 Deep Learning Competition](https://github.com/haenara-shin/GAN_Project)(South Korea) with the coolest, 2 other teammates. And, thankfully, we won a contest (1st place: Awarded for the Commissioner of the Korean Intellectual Property Office Award - '특허청장상' in Korean) 🎉. In addition, for the [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/leaderboard), which is my first Natural Language Processing (NLP) competition, I am ranked at 73/943 - Top 8% (in private LB). ✨Bronze medal✨ is awarded 😊. On the way to becoming a Kaggle Expert 😎 in the Code Competition section, I am ranked at 165/3537 - Top 5% (in private LB) for the [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard). ✨Silver medal✨ is awarded 😊. For the time being, I will not participate in any competition due to just focusing on my newly started progrmas. However, this won't be long. 
 
 Research Interests
 ------
 * Machine Learning (Deep Learning) + Materials Science Application
-  * Traditional ML(DL) application to Materials science
-    * Building the model to predict the suitable materials for photovoltaics or energy storage applications. 
-    * Expandable to the photoelectronic devices' materials, energy grid system or power generation system.
-    * Expandable to the EL, PL, SEM, or other images' recognition to provide the new insight.
-* Deep Learning to the image recognition
-  * Image recognition (classification, localization, or segmentation)
-    * Applied to the real-world, i.e., the photovoltaics' PL/EL classification/prediction, Face/Object/Anomaly recognition/detection.
-    * Expandable to the real-world applications.
+  * ML(DL) application/analysis to existing Materials science data/problems
+* Deep Learning for the image recognition(Computer Vision) and/or TimeSeries dataset model building (plus MLOps).
+* Solving the real-world problems through ML/DL application
 
 * Before studying the ML, I was just focusing on traditional research of photo-electronic devices. I spent most of time in the cleanroom with vacuum deposition machines when I work at the company. Basically, it was similar when I started my PhD program. However, once I have to make a huge decision for changing my career path, and at the moment that I believe this would be the second chance, I just jumped into the ML world without any hesitation. I believe the ML application to Materials Science can be beyond my experience and expectation. Always, welcome to the new research field :)
 
 Seeking Positions
 ------
-* I am seeking the PhD student position under the professor who does the research on the Machine Learning and Materials Science application.
-  * I admitted the PhD program in 2017 Fall, UCSD, but I stopped it for one year, in order to study the Machine Learning, MS program. 
-  * Now, I hope to resume my PhD journey again with a full of passion and interesting in new-field, the Machine Learning, and in my old friend, the Materials Science.
-* I am also looking for the internship related to the Machine Learning (Optical Character Recognition, Image recognition, and Materials Science application). 
+* I am looking for the full-time job position focused on the Machine Learning/Deep Learning researcher/engineer, and I am willing to take a journey to a PhD again. 
+
 
 Fun Facts about me
 ------
